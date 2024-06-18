@@ -1,0 +1,10 @@
+apikey.py
+chainlit.md
+tempCodeRunnerFile.py
+openai.txt
+__pycache__/
+venv/
+.idea/
+.vscode/
+.chainlit/
+.gitignore.txt
