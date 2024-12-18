@@ -51,7 +51,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ai-utility-suite.git  
+git clone https://github.com/mxyptlik/langchain.git
 Navigate to the project folder:
 
 bash
